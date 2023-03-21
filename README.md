@@ -7,21 +7,14 @@ I cut my teeth at Comfy, one of Ukraine's leading tech firms, where I honed my s
 ## Skills
 - JavaScript
 - TypeScript
-- HTML5
-- CSS
-- SCSS
 - React
 - Redux
 - Axios
-- Redux Toolkit
-- Formik
 - react-query
 - Webpack
 - Next.js
 - Vite
 - Apollo
-- Git
-- GitHub
 
 ## Projects
 I am passionate about coding and love to explore new technologies. In my free time, I like to work on my personal projects. You can find some of them on my GitHub account. One of my most significant projects is developing a social network for my university. I have ambitious plans to create something new and useful for the world.
