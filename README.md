@@ -1,8 +1,9 @@
 # Frontend Software Engineer
-### Hi there 👋
-and thanks for stopping by my GitHub account! My name is Oleh, and I'm not your average frontend developer. I'm a true software engineer who loves to push the boundaries of what's possible with the latest web technologies.
+### Hello and welcome to my GitHub account! 👋
 
-I cut my teeth at Comfy, one of Ukraine's leading tech firms, where I honed my skills developing cutting-edge web applications. Now, I'm studying applied computer science in the Czech Republic and working as a freelance developer in my spare time.
+I'm a highly motivated Software Engineer with a strong focus on frontend development, particularly in React. Throughout my career, I've built an extensive skill set and have consistently exceeded client expectations by delivering successful projects. I have a passion for embracing innovation and I'm always on the lookout for exciting opportunities that allow me to work with modern technology stacks and bring innovative ideas to life.
+
+Feel free to explore my repositories and projects. I'm excited to collaborate, learn, and contribute to the vibrant GitHub community. If you have any questions or would like to discuss potential collaborations, don't hesitate to reach out. Let's create something amazing together!
 
 ## Skills
 - JavaScript
